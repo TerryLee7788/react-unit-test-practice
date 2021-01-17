@@ -1,0 +1,29 @@
+{
+  "name": "react-unit-test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color",
+    "test:coverage": "jest --coverage --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerryLee7788/react-unit-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerryLee7788/react-unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/TerryLee7788/react-unit-test-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "jest": "^26.6.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
